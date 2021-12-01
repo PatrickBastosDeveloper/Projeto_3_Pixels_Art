@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(97, 185, 207);
+}
+
+h1 {
+  text-align: center;
+}
+
+#color-palette {
+  text-align: center;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  margin-right: 5px;
+  width: 40px;
+}
+
+#pixel-board {
+  margin: 0 auto;
+  font-size: 0;
+  padding: 0;
+  text-align: center;
+  max-width: 240px;
+}
+
+.pixel {
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  padding: 0;
+  width: 40px;
+}
+
+.selected {
+  box-shadow: 5px 5px 5px;
+}
+
+#clear-board {
+  margin: 39%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
