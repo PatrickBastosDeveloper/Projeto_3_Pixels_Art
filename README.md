@@ -8,4 +8,4 @@ O novo conhecimento adquirido no curso e aplicado no projeto foi a manipulação
 
 ###Demais conhecimentos trabalhados: 
 Esse projeto reforçou minha capacidade de modelagem, onde dado determinado problema precisei quebrá-lo em vários menores. 
-[Click para visualizar o projeto](https://patrickbastosdeveloper.github.io/Projeto_3_Pixels_Art/) 🎨:
+[Click aqui para visualizar o projeto](https://patrickbastosdeveloper.github.io/Projeto_3_Pixels_Art/) 🎨:
